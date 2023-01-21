@@ -1,0 +1,10 @@
+Time: ['2023-01-22 03:08:55.449039'] Diet: rice 2 eggs 3 rotis
+Time: ['2023-01-22 03:09:18.823615'] Diet: banana chaat
+Time: ['2023-01-22 03:15:50.073501'] Diet: salad fibre
+Time: ['2023-01-22 03:16:29.057108'] Diet: protien apple
+Time: ['2023-01-22 03:17:26.775728'] Diet: rice banana apple salad pollo
+Time: ['2023-01-22 03:18:05.386043'] Diet: something good
+Time: ['2023-01-22 03:18:23.599570'] Diet: achha kuch
+Time: ['2023-01-22 03:37:50.020796'] Diet: uio
+Time: ['2023-01-22 03:38:46.506640'] Diet: ougc
+Time: ['2023-01-22 03:40:39.970806'] Diet: sdfghj
